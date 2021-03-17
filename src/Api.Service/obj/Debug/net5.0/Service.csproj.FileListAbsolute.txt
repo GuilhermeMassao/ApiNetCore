@@ -1,0 +1,17 @@
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.deps.json
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.dll
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\bin\Debug\net5.0\ref\Service.dll
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\bin\Debug\net5.0\Service.pdb
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\bin\Debug\net5.0\Data.dll
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\bin\Debug\net5.0\Domain.dll
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\bin\Debug\net5.0\Domain.pdb
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\bin\Debug\net5.0\Data.pdb
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csprojAssemblyReference.cache
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfoInputs.cache
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.AssemblyInfo.cs
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.csproj.CopyComplete
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.dll
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\ref\Service.dll
+C:\Users\guiga\Documents\MyProjects\ApiNetCore\src\Api.Service\obj\Debug\net5.0\Service.pdb
