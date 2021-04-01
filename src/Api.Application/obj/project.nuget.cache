@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kit6ceatv/ld61htNFvn1QguCF6Lqcjv9FofHeJk7iIoXu/QO5OYhG3cLQcvCTQv7zLLSABjb1HIFoUpry6U8A==",
+  "dgSpecHash": "u0Xp8gQikXsEir/Ry4GBPqhfTM7aCcuL4wbyt2YYyy3NrAg2HEewIBx0HnkBSiMDzFpJuiCh9zzeCM9+FbVePA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj",
+  "projectFilePath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guiga\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\guiga\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

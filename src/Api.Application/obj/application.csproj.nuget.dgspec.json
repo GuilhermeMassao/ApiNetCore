@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj": {}
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj": {
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj",
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj",
         "projectName": "application",
-        "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj",
         "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\obj\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,14 +28,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\obj\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -115,14 +115,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
               },
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj"
               }
             }
           }
@@ -165,14 +165,14 @@
         }
       }
     },
-    "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj",
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj",
         "projectName": "Data",
-        "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj",
         "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\obj\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -189,8 +189,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }
@@ -245,14 +245,14 @@
         }
       }
     },
-    "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\obj\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -305,14 +305,14 @@
         }
       }
     },
-    "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj",
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj",
         "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\obj\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -329,11 +329,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj"
               },
-              "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
               }
             }
           }

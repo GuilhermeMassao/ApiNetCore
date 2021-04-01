@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\Api.Application.Test.csproj": {}
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\Api.Application.Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\Api.Application.Test.csproj": {
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\Api.Application.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\Api.Application.Test.csproj",
         "projectName": "Api.Application.Test",
-        "projectPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\Api.Application.Test.csproj",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\Api.Application.Test.csproj",
         "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\obj\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application.Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,17 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj"
+              },
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              },
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,6 +69,374 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj",
+        "projectName": "application",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\application.csproj",
+        "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj"
+              },
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              },
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Microsoft.AspNetCore.Authentication.OpenIdConnect": {
+              "target": "Package",
+              "version": "[5.0.0, )",
+              "noWarn": [
+                "NU1605"
+              ]
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.6.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "projectName": "CrossCutting",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj"
+              },
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              },
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj",
+        "projectName": "Data",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj",
+        "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\guiga\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guiga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Data\\Data.csproj"
+              },
+              "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\guiga\\Documents\\MyProjects\\ApiNetCore\\src\\Api.Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
             }
           },
           "imports": [
